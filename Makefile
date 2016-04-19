@@ -29,6 +29,5 @@ clean:
 	$(RM) *.o
 	$(RM) geometry_test
 	$(RM) *~
-test:
-	make
+test: all
 	./geometry_test
