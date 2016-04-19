@@ -145,6 +145,16 @@ START_TEST(test_2d_midpoint)
 }
 END_TEST
 
+START_TEST(test_coord_2d_area_triangle) {
+
+   a.x = 5;
+   a.y = 5;
+   b.x = 5;
+   b.y = 15;
+   c.x = 10;
+   c.y = 5;
+
+
 /* coord_2d Test Suite */
 Suite* coord_2d_suite(void)
 {
