@@ -1,6 +1,8 @@
 CU-CSCI3308-CIPractice
 ======================
 
+![Build Status](https://travis-ci.org/tlugger/CU-CSCI3308-CIPractice.svg?branch=master)
+
 Assignment to practice the use of continuous integration tools.
 
 ### Author
